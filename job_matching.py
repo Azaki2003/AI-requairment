@@ -14,7 +14,7 @@ Reply in exactly this format and nothing else:
 Score: <0-100>
 Matched: <comma-separated required skills the CV has>
 Missing: <comma-separated required skills the CV lacks>
-explain your reasoning in short, highlighting the specific parts of the CV that match or do not match the job description.
+Reasoning: <short explanation, citing the specific parts of the CV that match or do not match>
 
 Job Description:
 {job_description}
